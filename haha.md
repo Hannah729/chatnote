@@ -28,3 +28,25 @@ Ainsworth, M. D., & Wittig, B. A. (1969). Attachment and exploratory behavior of
 Parke, R.D. and Buriel, R. (2007). Socialization in the Family: Ethnic and Ecological Perspectives†. In Handbook of Child Psychology (eds W. Damon, R.M. Lerner and N. Eisenberg). https://doi.org/10.1002/9780470147658.chpsy0308
 幫我改成APA第七版的寫法
 
+
+
+
+---2
+<br>以下是根據APA第七版格式修訂的文獻呈現方式：
+
+**Parke, R. D., & Buriel, R. (2007). Socialization in the family: Ethnic and ecological perspectives. In W. Damon, R. M. Lerner, & N. Eisenberg (Eds.), *Handbook of child psychology* (6th ed.). Wiley. https://doi.org/10.1002/9780470147658.chpsy0308**
+
+### 注意：
+1. **作者名稱**：姓氏和首字母之間使用逗號，並用「&」連接多位作者。
+2. **章節標題**：僅第一個詞的首字母大寫，其餘均為小寫（專有名詞例外）。
+3. **書名**：使用斜體 (*italic*)，且僅第一個詞的首字母大寫。
+4. **編者資訊**：用括號標示「(Eds.)」，並以逗號分隔每位編者姓名。
+5. **版次**：明確版次，例如「6th ed」。
+6. **出版商名稱**：簡潔列出，不包含地點資訊。
+7. **DOI或URL**：直接列出。
+
+如果還有其他需求，歡迎提供更多細節！
+<br>--- end ---
+
+
+
