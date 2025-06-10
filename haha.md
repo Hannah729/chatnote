@@ -48,5 +48,17 @@ Parke, R.D. and Buriel, R. (2007). Socialization in the Family: Ethnic and Ecolo
 如果還有其他需求，歡迎提供更多細節！
 <br>--- end ---
 
+---1
+Puglisi, N., Rattaz, V., Favez, N. & Tissot, H. (2024). Father involvement and emotion regulation during early childhood: a systematic review. BMC Psychol, 12(1), 675. 
+https://doi.org/10.1186/s40359-024-02182-x
+
+Systematic Review
+Open access
+Published: 19 November 2024
+Father involvement and emotion regulation during early childhood: a systematic review
+Nilo Puglisi, Valentine Rattaz, Nicolas Favez & Hervé Tissot 
+BMC Psychology volume 12, Article number: 675 (2024) 
+
+幫我改成APA第七版的文獻引用寫法
 
 
