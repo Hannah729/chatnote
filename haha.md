@@ -62,3 +62,24 @@ BMC Psychology volume 12, Article number: 675 (2024)
 幫我改成APA第七版的文獻引用寫法
 
 
+
+
+
+---2
+<br>以下是根據APA第七版格式修訂的文獻呈現方式：
+
+**Puglisi, N., Rattaz, V., Favez, N., & Tissot, H. (2024). Father involvement and emotion regulation during early childhood: A systematic review. *BMC Psychology, 12*(1), Article 675. https://doi.org/10.1186/s40359-024-02182-x**
+
+### 注意：
+1. **作者名稱**：姓氏和首字母之間使用逗號，並用「&」連接多位作者。
+2. **文章標題**：僅第一個詞的首字母大寫，其餘均為小寫（專有名詞例外）。
+3. **期刊名稱**：使用斜體 (*italic*)，且每個詞的首字母大寫。
+4. **卷號和期數**：卷號使用斜體，期數置於括號中且不使用斜體。
+5. **文章編號**：若有文章編號（如 "Article 675"），應明確列出。
+6. **DOI或URL**：直接列出。
+
+如果還需要其他協助或有進一步問題，請隨時告訴我！
+<br>--- end ---
+
+
+
