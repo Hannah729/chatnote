@@ -24,5 +24,7 @@ Ainsworth, M. D., & Wittig, B. A. (1969). Attachment and exploratory behavior of
 如果有其他疑問，歡迎告訴我！
 <br>--- end ---
 
-
+---1
+Parke, R.D. and Buriel, R. (2007). Socialization in the Family: Ethnic and Ecological Perspectives†. In Handbook of Child Psychology (eds W. Damon, R.M. Lerner and N. Eisenberg). https://doi.org/10.1002/9780470147658.chpsy0308
+幫我改成APA第七版的寫法
 
