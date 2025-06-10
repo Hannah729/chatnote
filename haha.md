@@ -81,5 +81,15 @@ BMC Psychology volume 12, Article number: 675 (2024)
 如果還需要其他協助或有進一步問題，請隨時告訴我！
 <br>--- end ---
 
+---1
+Meta-Analysis PLoS Med
+. 2021 May 10;18(5):e1003602. doi: 10.1371/journal.pmed.1003602. eCollection 2021 May.
+Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis
+Joshua Jeong 1, Emily E Franchett 1, Clariana V Ramos de Oliveira 1, Karima Rehmani 1, Aisha K Yousafzai 1
+Affiliations Expand
+PMID: 33970913 PMCID: PMC8109838 DOI: 10.1371/journal.pmed.1003602
+
+幫我改成APA第七版的文獻引用寫法
+
 
 
