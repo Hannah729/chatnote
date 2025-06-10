@@ -93,3 +93,24 @@ PMID: 33970913 PMCID: PMC8109838 DOI: 10.1371/journal.pmed.1003602
 
 
 
+
+
+
+---2
+<br>以下是根據APA第七版格式修訂的文獻呈現方式：
+
+**Jeong, J., Franchett, E. E., Ramos de Oliveira, C. V., Rehmani, K., & Yousafzai, A. K. (2021). Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis. *PLOS Medicine, 18*(5), e1003602. https://doi.org/10.1371/journal.pmed.1003602**
+
+### 注意：
+1. **作者名稱**：姓氏和首字母之間使用逗號，並用「&」連接多位作者。
+2. **文章標題**：僅第一個詞的首字母大寫，其餘均為小寫（專有名詞例外）。
+3. **期刊名稱**：使用斜體 (*italic*)，且每個詞的首字母大寫。
+4. **卷號和期數**：卷號使用斜體，期數置於括號中且不使用斜體。
+5. **文章編號**：若有文章編號（如 "e1003602"），應明確列出。
+6. **DOI或URL**：直接列出。
+
+如果還需要其他協助或有進一步問題，請隨時告訴我！
+<br>--- end ---
+
+
+
